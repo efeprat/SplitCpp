@@ -3,6 +3,9 @@
 
 #include "split.hpp"
 
+#include <vector>
+#include <string>
+
 class FraccionTest : public CPPUNIT_NS::TestFixture {
 
     CPPUNIT_TEST_SUITE(FraccionTest);
